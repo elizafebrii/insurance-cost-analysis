@@ -22,4 +22,3 @@ This Jupyter Notebook explores the factors influencing insurance charges using s
 - **Matplotlib** & **Seaborn**: data visualization
 - **Scikit-learn**: linear regression modeling
 
-## 📁 File Structure
